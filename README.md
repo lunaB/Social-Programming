@@ -5,3 +5,5 @@
   - https://luna-b.tistory.com/12
 - [소셜 프로그래밍] 공급과 수요 시뮬레이션 실습편 1 
   - https://luna-b.tistory.com/13
+- [소셜 프로그래밍] 공급과 수요 시뮬레이션 실습편 2
+  - https://luna-b.tistory.com/14
